@@ -1,0 +1,29 @@
+{
+  "name": "nodenpxcard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pecoraroFRANCESCO/NodeNpxCard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pecoraroFRANCESCO/NodeNpxCard/issues"
+  },
+  "bin": {
+    "card": "./index.js"
+  },
+  "homepage": "https://github.com/pecoraroFRANCESCO/NodeNpxCard#readme",
+  "dependencies": {
+    "boxen": "^2.1.0",
+    "cfonts": "^2.4.0",
+    "inquirer": "^6.2.1",
+    "opn": "^5.4.0",
+    "terminal-kit": "^1.26.10"
+  }
+}
